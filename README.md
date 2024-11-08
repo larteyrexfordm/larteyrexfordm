@@ -10,7 +10,7 @@ This portfolio is to share my nights of coding, breaking into systems and solvin
 
 | Activity                                      | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| PicoCTF                                       | <a href="https://google.com">PicoCTF Writeups</a>|
+| PicoCTF                                       | <a href="https://github.com/larteyrexfordm/PicoCTF.git">PicoCTF Writeups</a>|
 | VulnHub                                       | <a href="https://google.com">Codes</a>|
 | Codes                                         | <a href="https://google.com">Summarised notess</a>|                         |
 | Summarised notes                              | <a href="https://google.com">Summarised notess</a>|                                                                         |
