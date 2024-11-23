@@ -15,7 +15,7 @@ This portfolio is to share my nights of coding, breaking into systems and solvin
 |                                                | <a href="https://github.com/larteyrexfordm/PicoCTF-2022.git">PicoCTF 2022 Writeups</a>|
 |                                                |<a href="https://github.com/larteyrexfordm/PicoCTF.git">PicoCTF 2021 Writeups</a>|
 | VulnHub                                       | <a href="https://github.com/larteyrexfordm/VulnHub-Writeups.git">Pwned VulnHub machines writeups</a>|
-| Codes                                         | <a href="https://google.com">Project Codes</a>|                    
+| Codes                                         | <a href="https://github.com/larteyrexfordm/codes.git">Project Codes</a>|                    
 | Summarised notes                              | <a href="https://github.com/larteyrexfordm/notes.git">Summarised notes</a>|                                                                         |
 |                                               |                                                  |
 
